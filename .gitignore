@@ -22,5 +22,4 @@ Vagrantfile.local
 /examples/prod/inventory
 /examples/prod/bootstrap/vars.yml
 /scripts/
-/drupal/web
 /drupal/vendor
