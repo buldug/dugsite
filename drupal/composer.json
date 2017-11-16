@@ -37,5 +37,8 @@
     },
     "config": {
         "process-timeout": 1200
+    },
+    "scripts": {
+        "drupal-scaffold": "DrupalComposer\\DrupalScaffold\\Plugin::scaffold"
     }
 }
